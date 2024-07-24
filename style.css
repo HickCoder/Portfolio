@@ -1,0 +1,49 @@
+#about{
+    margin: 25px auto;
+    max-width:500px ;
+    text-align: center;
+}
+
+#about>h2{
+    margin-bottom: 15px;
+}
+#about>h2>span{
+    color: blue;
+}
+#about .my-pic{
+    height: 175px;
+    width: 175px;
+ margin-bottom: 15px;
+    border-radius: 50%;
+    border: 1px solid;
+}
+#about .icons img{
+    width: 28px;
+    height: 28px;
+    margin: 5px;
+}
+#project{
+    margin: 35px auto;
+ text-align: center;
+ padding: 0 10px;
+}
+#project h2 span{ 
+color: blue;
+}
+#project .card{
+    margin: 35px auto;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
